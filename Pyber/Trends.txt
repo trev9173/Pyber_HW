@@ -1,0 +1,5 @@
+Trend 1 - Only 1 percent of driver's live in rural areas, but the earn over 6.5% of the fares. The lessened competition in rural areas probably leads to increased revenue and demand for drivers in rural areas. 
+
+Trend 2 - The scatter plot shows that rides get shorter when the city gets larger. The average fare in rural environments are larger than in suburban settings and, suburban fares are larger than urban cities. 
+
+Trend 3 - Driver's must make a difficult decision between rides with higher average fares or access to more customers. The optimal city may be a suburban environment where you get a mix of higher fares and more abundant access to customers. 
